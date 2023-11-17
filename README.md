@@ -16,5 +16,4 @@ conclusion, I worked on the recreation of the gaseous rings from [Li et al.,
 rings. This report shows how the non-homentropic dusty proto-planetary
 disks are unstable using considered values of the functions and assump-
 tions.
-keywords- Non-axisymmetric, Single fluid, Non-homentropic, Home-
-ntropic, Dust evolution
+keywords- Non-axisymmetric, Single fluid, Non-homentropic, Homentropic, Dust evolution
